@@ -1,4 +1,4 @@
-**Environment Simulator for an Autonomous Vacuum Cleaner World**
+#Environment Simulator for an Autonomous Vacuum Cleaner World
 
 This project focuses on the design and implementation of an environment simulator for the world of an autonomous vacuum cleaner. The simulator is intended to be a testing ground for different artificial intelligence strategies applied to cleaning environments.
 
